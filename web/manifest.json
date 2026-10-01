@@ -1,0 +1,10 @@
+{
+  "name": "Barcelona 2026",
+  "short_name": "BCN 2026",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff7ec",
+  "theme_color": "#ef7b45",
+  "description": "App collaborativa del viaggio a Barcellona 8–11 ottobre 2026",
+  "orientation": "portrait-primary"
+}

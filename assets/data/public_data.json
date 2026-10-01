@@ -1,0 +1,1202 @@
+{
+  "trip": {
+    "title": "Barcelona 2026",
+    "dates": "8–11 ottobre 2026",
+    "accommodation": {
+      "name": "Alloggio del gruppo",
+      "address": "",
+      "metro": "",
+      "lat": null,
+      "lng": null
+    },
+    "airport": {
+      "out": "",
+      "t2": "",
+      "back": ""
+    },
+    "neighborhoods": [
+      {
+        "id": "passeig-area",
+        "name": "Passeig de Gràcia e Eixample",
+        "icon": "🏛️",
+        "distance": "Base del viaggio",
+        "desc": "Zona dell’alloggio e asse modernista: Passeig de Gràcia, Casa Batlló, Casa Amatller, La Pedrera e Plaça Catalunya.",
+        "placeIds": [
+          "urbancomfort",
+          "catalunya",
+          "passeig",
+          "casabatllo",
+          "amatller",
+          "lleomorera",
+          "lapedrera",
+          "ramblacatalunya"
+        ]
+      },
+      {
+        "id": "gracia-area",
+        "name": "Park Güell e Gràcia",
+        "icon": "🌿",
+        "distance": "~20–35 min",
+        "desc": "Parc Güell al mattino e poi discesa verso Gràcia: piazze, tapas, bar e atmosfera di quartiere.",
+        "placeIds": [
+          "parkguell",
+          "gracia",
+          "placasol",
+          "virreina",
+          "verdi"
+        ]
+      },
+      {
+        "id": "sagrada-area",
+        "name": "Sagrada Família",
+        "icon": "⛪",
+        "distance": "~15–25 min",
+        "desc": "Sant Pau esterno, Avinguda de Gaudí e Sagrada Família: un blocco molto lineare da fare a piedi una volta arrivati in zona.",
+        "placeIds": [
+          "santpau",
+          "sagrada",
+          "placagaudi"
+        ]
+      },
+      {
+        "id": "marina-area",
+        "name": "Poblenou e Marina",
+        "icon": "🌙",
+        "distance": "~25–35 min",
+        "desc": "Zona della serata del venerdì: L’Ovella Negra Marina e Razzmatazz, con Bogatell e Marina come riferimenti pratici.",
+        "placeIds": [
+          "razz"
+        ]
+      },
+      {
+        "id": "gotic-area",
+        "name": "Barrio Gótico e Rambla",
+        "icon": "🏰",
+        "distance": "~15–25 min",
+        "desc": "Plaça Reial, Call, Sant Jaume, Tempio di Augusto, Pont del Bisbe, Cattedrale, Sant Felip Neri e Plaça del Rei.",
+        "placeIds": [
+          "kissmural",
+          "cathedral",
+          "romanwall",
+          "bisbe",
+          "santjaume",
+          "august",
+          "placadelrei",
+          "santfelipneri",
+          "elcall",
+          "santamariapi",
+          "placareial",
+          "rambla",
+          "colombo"
+        ]
+      },
+      {
+        "id": "born-area",
+        "name": "Born e Ciutadella",
+        "icon": "🧱",
+        "distance": "~20–30 min",
+        "desc": "Santa Maria del Mar, Fossar de les Moreres, Passeig del Born, Mercat del Born e Ciutadella come opzione.",
+        "placeIds": [
+          "arctriomf",
+          "ciutadella",
+          "bornmarket",
+          "santamaria",
+          "picasso"
+        ]
+      },
+      {
+        "id": "barceloneta-area",
+        "name": "Port Vell e Barceloneta",
+        "icon": "🌊",
+        "distance": "~25–35 min",
+        "desc": "Moll de la Fusta, porto, quartiere della Barceloneta e spiaggia: il blocco giusto per il tramonto del sabato.",
+        "placeIds": [
+          "portvell",
+          "barceloneta",
+          "santmiquel"
+        ]
+      },
+      {
+        "id": "poblesec-area",
+        "name": "Montjuïc e Poble-sec",
+        "icon": "🍢",
+        "distance": "~20–30 min",
+        "desc": "Poble-sec e Carrer de Blai sono nel piano serale; Montjuïc e Fontana Magica restano alternative, non tappe obbligatorie.",
+        "placeIds": [
+          "poblesec",
+          "espanya",
+          "mnac",
+          "magicfountain"
+        ]
+      }
+    ],
+    "itinerary": [
+      {
+        "day": "Giovedì 8",
+        "title": "Arrivo · Eixample · Passeig de Gràcia · Pedrera Night",
+        "tag": "Primo giorno smart",
+        "note": "Giornata compatta intorno a casa: passeggiata gratuita, check-in e riposo, poi La Pedrera Night Experience e serata a Gràcia. Casa Batlló solo esterna.",
+        "items": []
+      },
+      {
+        "day": "Venerdì 9",
+        "title": "Parc Güell · Gràcia · Sant Pau · Sagrada · Razzmatazz",
+        "tag": "Gaudí + discoteca",
+        "note": "Parc Güell è l’unica grande visita a pagamento del giorno. Sant Pau e Sagrada si fanno esternamente; poi unico rientro lungo a casa prima della notte.",
+        "items": []
+      },
+      {
+        "day": "Sabato 10",
+        "title": "Gotico · Born · Port Vell · Barceloneta · Poble-sec",
+        "tag": "Storico + tramonto + pintxos",
+        "note": "Dopo Razzmatazz si parte tardi. Il giorno è lineare: Gotico → Born → Port Vell → Barceloneta al tramonto → riposo → Poble-sec.",
+        "items": []
+      },
+      {
+        "day": "Domenica 11",
+        "title": "Rientro",
+        "tag": "Aeroporto",
+        "note": "Mattina semplice: colazione, controllo appartamento e trasferimento verso il T2.",
+        "items": []
+      }
+    ]
+  },
+  "places": [
+    {
+      "id": "urbancomfort",
+      "name": "Alloggio del gruppo",
+      "type": "Alloggio",
+      "area": "Passeig de Gràcia e Eixample",
+      "price": "Prenotato",
+      "duration": "Base del viaggio",
+      "level": "🏠 Casa",
+      "budget": "💚 Base logistica",
+      "lat": null,
+      "lng": null,
+      "why": "Alloggio del gruppo in Eixample. I dettagli completi vengono caricati solo dopo il login.",
+      "details": "Base logistica del viaggio.",
+      "highlights": [
+        "Eixample",
+        "Metro vicina",
+        "Passeig de Gràcia"
+      ],
+      "tips": "Apri Maps dopo il login per il punto esatto."
+    },
+    {
+      "id": "santpau",
+      "name": "Recinte Modernista de Sant Pau",
+      "type": "Architettura modernista",
+      "area": "Sagrada Família",
+      "price": "Esterno gratis · interno ~18 €",
+      "duration": "Esterno 25–35 min",
+      "level": "⭐ Molto bello",
+      "budget": "💚 Esterno smart",
+      "lat": 41.411,
+      "lng": 2.1744,
+      "why": "Nel vostro itinerario conviene soprattutto l’esterno: si collega perfettamente alla Sagrada tramite Avinguda de Gaudí.",
+      "details": "Complesso modernista di Lluís Domènech i Montaner. Nel programma breve è sufficiente concentrarsi sulla facciata e sull’ingresso monumentale.",
+      "highlights": [
+        "Facciata principale",
+        "Ingresso monumentale",
+        "Vista verso Avinguda de Gaudí"
+      ],
+      "tips": "L’interno richiede più tempo e budget: con tre giorni non è prioritario."
+    },
+    {
+      "id": "catalunya",
+      "name": "Plaça Catalunya",
+      "type": "Piazza",
+      "area": "Passeig de Gràcia e Eixample",
+      "price": "Gratis",
+      "duration": "10–15 min",
+      "level": "👍 Sul percorso",
+      "budget": "💚 Gratis",
+      "lat": 41.387,
+      "lng": 2.17,
+      "why": "Punto centrale e inizio naturale della passeggiata del primo giorno.",
+      "details": "Grande nodo urbano tra Eixample, Rambla e Passeig de Gràcia.",
+      "highlights": [
+        "Vista sull’inizio della Rambla",
+        "Collegamento diretto con Passeig de Gràcia"
+      ]
+    },
+    {
+      "id": "passeig",
+      "name": "Passeig de Gràcia",
+      "type": "Passeggiata",
+      "area": "Passeig de Gràcia e Eixample",
+      "price": "Gratis",
+      "duration": "45–90 min",
+      "level": "🔥 Da fare",
+      "budget": "💚 Gratis",
+      "lat": 41.3927,
+      "lng": 2.1649,
+      "why": "Concentra alcune delle facciate moderniste più importanti della città."
+    },
+    {
+      "id": "casabatllo",
+      "name": "Casa Batlló",
+      "type": "Architettura",
+      "area": "Passeig de Gràcia e Eixample",
+      "price": "Esterno gratis · interno da ~29 €",
+      "duration": "Esterno 15 min · interno ~1h15",
+      "level": "⭐ Bellissima",
+      "budget": "🟡 Interno opzionale",
+      "lat": 41.3917,
+      "lng": 2.1649,
+      "why": "Nel piano attuale l’interno è previsto venerdì; giovedì guardatela fuori.",
+      "details": "Una delle opere più riconoscibili di Gaudí, con facciata organica, balconi a maschera e tetto che richiama il dorso di un drago.",
+      "highlights": [
+        "Facciata",
+        "Piano nobile",
+        "Cortile blu",
+        "Soffitta",
+        "Tetto"
+      ],
+      "tips": "Se fate l’interno, evitate di pagare anche La Pedrera nello stesso viaggio."
+    },
+    {
+      "id": "amatller",
+      "name": "Casa Amatller",
+      "type": "Architettura",
+      "area": "Passeig de Gràcia e Eixample",
+      "price": "Esterno gratis",
+      "duration": "10–15 min",
+      "level": "👍 Consigliata",
+      "budget": "💚 Gratis dall’esterno",
+      "lat": 41.3916,
+      "lng": 2.1651,
+      "why": "È attaccata a Casa Batlló: zero deviazione e bella facciata modernista."
+    },
+    {
+      "id": "lleomorera",
+      "name": "Casa Lleó Morera",
+      "type": "Architettura",
+      "area": "Passeig de Gràcia e Eixample",
+      "price": "Esterno gratis",
+      "duration": "10 min",
+      "level": "👍 Se siete già lì",
+      "budget": "💚 Gratis",
+      "lat": 41.3899,
+      "lng": 2.1663,
+      "why": "Completa il trio di facciate moderniste sul viale."
+    },
+    {
+      "id": "lapedrera",
+      "name": "La Pedrera · Casa Milà",
+      "type": "Architettura",
+      "area": "Passeig de Gràcia e Eixample",
+      "price": "Esterno gratis · interno >25 €",
+      "duration": "Esterno 15 min · interno ~1h30",
+      "level": "⭐ Bellissima",
+      "budget": "🟡 Solo se la preferite a Casa Batlló",
+      "lat": 41.3954,
+      "lng": 2.1619,
+      "why": "Nel vostro piano conviene vederla fuori e spendere l’interno su Casa Batlló."
+    },
+    {
+      "id": "ramblacatalunya",
+      "name": "Rambla de Catalunya",
+      "type": "Passeggiata",
+      "area": "Passeig de Gràcia e Eixample",
+      "price": "Gratis",
+      "duration": "20–30 min",
+      "level": "👍 Piacevole",
+      "budget": "💚 Gratis",
+      "lat": 41.3918,
+      "lng": 2.1623,
+      "why": "Alternativa più tranquilla alla Rambla turistica per tornare verso Plaça Catalunya."
+    },
+    {
+      "id": "parkguell",
+      "name": "Park Güell",
+      "type": "Attrazione",
+      "area": "Park Güell e Gràcia",
+      "price": "18 €",
+      "duration": "~2h",
+      "level": "🔥 Imperdibile",
+      "budget": "🔴 Spesa prioritaria",
+      "lat": 41.4145,
+      "lng": 2.1527,
+      "why": "Una delle spese che ha davvero senso nel viaggio.",
+      "details": "Parco monumentale di Gaudí con architettura, mosaici e viste sulla città.",
+      "highlights": [
+        "Scalinata monumentale",
+        "Salamandra",
+        "Sala Hipòstila",
+        "Panca ondulata",
+        "Portico della Lavandaia",
+        "Panorama"
+      ],
+      "tips": "Meglio la mattina nel vostro itinerario: siete freschi e lasciate il tardo pomeriggio libero per altre zone."
+    },
+    {
+      "id": "gracia",
+      "name": "Gràcia",
+      "type": "Quartiere",
+      "area": "Park Güell e Gràcia",
+      "price": "Gratis",
+      "duration": "1–3h",
+      "level": "⭐ Molto consigliato",
+      "budget": "💚 Gratis",
+      "lat": 41.402,
+      "lng": 2.1569,
+      "why": "Piazzette, tapas e locali: funziona sia dopo Park Güell sia per la prima serata."
+    },
+    {
+      "id": "placasol",
+      "name": "Plaça del Sol",
+      "type": "Piazza / serata",
+      "area": "Park Güell e Gràcia",
+      "price": "Gratis",
+      "duration": "20–45 min",
+      "level": "⭐ Bella la sera",
+      "budget": "💚 Gratis",
+      "lat": 41.4002,
+      "lng": 2.1566,
+      "why": "Una delle piazze più adatte per capire l’atmosfera sociale di Gràcia."
+    },
+    {
+      "id": "virreina",
+      "name": "Plaça de la Virreina",
+      "type": "Piazza",
+      "area": "Park Güell e Gràcia",
+      "price": "Gratis",
+      "duration": "15–30 min",
+      "level": "👍 Consigliata",
+      "budget": "💚 Gratis",
+      "lat": 41.404,
+      "lng": 2.1565,
+      "why": "Piccola tappa piacevole nel giro serale."
+    },
+    {
+      "id": "verdi",
+      "name": "Carrer de Verdi",
+      "type": "Strada / locali",
+      "area": "Park Güell e Gràcia",
+      "price": "Gratis",
+      "duration": "20–40 min",
+      "level": "👍 Consigliata",
+      "budget": "💚 Gratis",
+      "lat": 41.403,
+      "lng": 2.1564,
+      "why": "Asse utile per bar, pintxos e passeggiata."
+    },
+    {
+      "id": "sagrada",
+      "name": "Sagrada Família",
+      "type": "Attrazione",
+      "area": "Sagrada Família",
+      "price": "Esterno gratis · interno su prenotazione",
+      "duration": "45–60 min esterno · ~1h interno",
+      "level": "🔥 Imperdibile",
+      "budget": "🔴 Interno se trovate slot giusto",
+      "lat": 41.4036,
+      "lng": 2.1744,
+      "why": "Anche solo da fuori merita una tappa completa; se trovate biglietti buoni, spostatela dall’Admin.",
+      "details": "Capolavoro di Antoni Gaudí e simbolo della città. La visita esterna ha già molto da vedere, ma l’interno è una delle esperienze più forti se trovate un buon orario.",
+      "highlights": [
+        "Plaça de Gaudí",
+        "Facciata della Natività",
+        "Facciata della Passione",
+        "Vetrate e colonne se entrate"
+      ],
+      "tips": "Per la luce, preferite una fascia tardo-pomeridiana compatibile con gli orari ufficiali."
+    },
+    {
+      "id": "placagaudi",
+      "name": "Plaça de Gaudí",
+      "type": "Piazza / foto",
+      "area": "Sagrada Família",
+      "price": "Gratis",
+      "duration": "15–20 min",
+      "level": "⭐ Molto consigliata",
+      "budget": "💚 Gratis",
+      "lat": 41.4032,
+      "lng": 2.1757,
+      "why": "Uno dei punti migliori per la foto completa della basilica."
+    },
+    {
+      "id": "arctriomf",
+      "name": "Arc de Triomf",
+      "type": "Monumento",
+      "area": "Born e Ciutadella",
+      "price": "Gratis",
+      "duration": "15 min",
+      "level": "⭐ Da vedere",
+      "budget": "💚 Gratis",
+      "lat": 41.3911,
+      "lng": 2.1807,
+      "why": "Ingresso scenografico alla passeggiata verso Ciutadella."
+    },
+    {
+      "id": "ciutadella",
+      "name": "Parc de la Ciutadella",
+      "type": "Parco",
+      "area": "Born e Ciutadella",
+      "price": "Gratis",
+      "duration": "45–60 min",
+      "level": "⭐ Consigliato",
+      "budget": "💚 Gratis",
+      "lat": 41.3881,
+      "lng": 2.186,
+      "why": "Cascata monumentale, Mammut e spazio per rallentare dopo la notte."
+    },
+    {
+      "id": "bornmarket",
+      "name": "El Born Centre de Cultura i Memòria",
+      "type": "Cultura / storico",
+      "area": "Born e Ciutadella",
+      "price": "Area principale generalmente gratis",
+      "duration": "20–40 min",
+      "level": "👍 Consigliato",
+      "budget": "💚 Gratis / smart",
+      "lat": 41.3853,
+      "lng": 2.1846,
+      "why": "Si inserisce naturalmente tra Ciutadella e Santa Maria del Mar."
+    },
+    {
+      "id": "santamaria",
+      "name": "Santa Maria del Mar",
+      "type": "Basilica",
+      "area": "Born e Ciutadella",
+      "price": "Esterno gratis",
+      "duration": "20–30 min",
+      "level": "⭐ Molto consigliata",
+      "budget": "💚 Esterno gratis",
+      "lat": 41.3839,
+      "lng": 2.1821,
+      "why": "Una delle chiese gotiche più belle e naturale tappa nel Born."
+    },
+    {
+      "id": "picasso",
+      "name": "Museu Picasso",
+      "type": "Museo",
+      "area": "Born e Ciutadella",
+      "price": "Opzionale · cercare fascia gratis/economica",
+      "duration": "1h30–2h",
+      "level": "🤷 Solo se conviene",
+      "budget": "🟡 Non prioritario",
+      "lat": 41.3852,
+      "lng": 2.1809,
+      "why": "Con poco tempo, vale soprattutto se trovate ingresso gratuito o se siete davvero interessati."
+    },
+    {
+      "id": "kissmural",
+      "name": "El món neix en cada besada",
+      "type": "Mosaico fotografico",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "10–15 min",
+      "level": "⭐ Molto consigliato",
+      "budget": "💚 Gratis",
+      "lat": 41.3852,
+      "lng": 2.1755,
+      "why": "Tappa fotografica rapida nel Gotico: da vicino vedi le singole foto, da lontano compare il bacio.",
+      "details": "Murale-mosaico formato da migliaia di fotografie che compongono un grande bacio.",
+      "highlights": [
+        "Guardarlo da vicino",
+        "Allontanarsi per vedere l’immagine completa",
+        "Foto di gruppo"
+      ]
+    },
+    {
+      "id": "cathedral",
+      "name": "Cattedrale di Barcellona",
+      "type": "Monumento",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Esterno gratis · interno opzionale",
+      "duration": "30–60 min",
+      "level": "🔥 Fondamentale nel Gotico",
+      "budget": "💚/🟡 Esterno prioritario",
+      "lat": 41.3839,
+      "lng": 2.1763,
+      "why": "Uno dei punti centrali del percorso; non è necessario pagare l’interno per godersi il quartiere."
+    },
+    {
+      "id": "romanwall",
+      "name": "Mura romane · Plaça Nova",
+      "type": "Storico",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "10–15 min",
+      "level": "⭐ Da vedere",
+      "budget": "💚 Gratis",
+      "lat": 41.384,
+      "lng": 2.176,
+      "why": "Resti romani integrati nel tessuto medievale."
+    },
+    {
+      "id": "bisbe",
+      "name": "Pont del Bisbe",
+      "type": "Fotografia",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "5–10 min",
+      "level": "🔥 Iconico",
+      "budget": "💚 Gratis",
+      "lat": 41.3836,
+      "lng": 2.1769,
+      "why": "Una delle immagini più riconoscibili del Gotico."
+    },
+    {
+      "id": "santjaume",
+      "name": "Plaça Sant Jaume",
+      "type": "Piazza",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "10–15 min",
+      "level": "👍 Sul percorso",
+      "budget": "💚 Gratis",
+      "lat": 41.3827,
+      "lng": 2.177,
+      "why": "Centro storico e politico del quartiere."
+    },
+    {
+      "id": "august",
+      "name": "Tempio romano di Augusto",
+      "type": "Storico",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "15–20 min",
+      "level": "⭐ Vale la deviazione",
+      "budget": "💚 Gratis",
+      "lat": 41.3829,
+      "lng": 2.1774,
+      "why": "Piccolo ma particolare e vicinissimo alle altre tappe."
+    },
+    {
+      "id": "placadelrei",
+      "name": "Plaça del Rei",
+      "type": "Piazza medievale",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "15–20 min",
+      "level": "⭐ Molto consigliata",
+      "budget": "💚 Gratis",
+      "lat": 41.3842,
+      "lng": 2.1775,
+      "why": "Uno degli angoli medievali più scenografici."
+    },
+    {
+      "id": "santfelipneri",
+      "name": "Plaça Sant Felip Neri",
+      "type": "Piazza storica",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "10–15 min",
+      "level": "🔥 Suggestiva",
+      "budget": "💚 Gratis",
+      "lat": 41.3834,
+      "lng": 2.1758,
+      "why": "Cercate i segni dei bombardamenti sulla facciata."
+    },
+    {
+      "id": "elcall",
+      "name": "El Call · quartiere ebraico",
+      "type": "Quartiere storico",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "20–30 min",
+      "level": "⭐ Consigliato",
+      "budget": "💚 Gratis",
+      "lat": 41.3827,
+      "lng": 2.1748,
+      "why": "Vicoli stretti e atmosfera storica tra Carrer del Call e Carrer de Marlet."
+    },
+    {
+      "id": "santamariapi",
+      "name": "Basílica de Santa Maria del Pi",
+      "type": "Basilica / piazza",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Esterno gratis",
+      "duration": "15–20 min",
+      "level": "👍 Consigliata",
+      "budget": "💚 Gratis fuori",
+      "lat": 41.3826,
+      "lng": 2.1746,
+      "why": "Tappa naturale prima di Plaça Reial."
+    },
+    {
+      "id": "placareial",
+      "name": "Plaça Reial",
+      "type": "Piazza / serata",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "15–30 min",
+      "level": "⭐ Bella soprattutto la sera",
+      "budget": "💚 Gratis",
+      "lat": 41.3801,
+      "lng": 2.175,
+      "why": "Piazza vivace, adatta anche come punto di passaggio verso locali serali."
+    },
+    {
+      "id": "rambla",
+      "name": "La Rambla",
+      "type": "Passeggiata",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Gratis",
+      "duration": "20–30 min",
+      "level": "👍 Da vedere una volta",
+      "budget": "💚 Gratis · non spendete qui",
+      "lat": 41.3816,
+      "lng": 2.1717,
+      "why": "Iconica ma turistica: fatene un tratto, non una mezza giornata."
+    },
+    {
+      "id": "colombo",
+      "name": "Monumento a Colombo",
+      "type": "Monumento",
+      "area": "Barrio Gótico e Rambla",
+      "price": "Esterno gratis",
+      "duration": "10–15 min",
+      "level": "👍 Ponte verso il mare",
+      "budget": "💚 Gratis",
+      "lat": 41.3758,
+      "lng": 2.1779,
+      "why": "Chiude il percorso storico e vi mette direttamente verso Port Vell."
+    },
+    {
+      "id": "portvell",
+      "name": "Port Vell",
+      "type": "Porto / passeggiata",
+      "area": "Port Vell e Barceloneta",
+      "price": "Gratis",
+      "duration": "30–45 min",
+      "level": "⭐ Molto consigliato",
+      "budget": "💚 Gratis",
+      "lat": 41.3769,
+      "lng": 2.1842,
+      "why": "Collegamento scenografico tra centro storico e Barceloneta."
+    },
+    {
+      "id": "barceloneta",
+      "name": "Barceloneta",
+      "type": "Quartiere / mare",
+      "area": "Port Vell e Barceloneta",
+      "price": "Gratis",
+      "duration": "1–2h",
+      "level": "🔥 Al tramonto",
+      "budget": "💚 Gratis",
+      "lat": 41.3792,
+      "lng": 2.1899,
+      "why": "Il momento forte è tardo pomeriggio e tramonto, non serve pagare nulla.",
+      "details": "Quartiere marinaro e spiaggia urbana. Nel vostro itinerario ha senso arrivarci gradualmente da Colombo e Port Vell.",
+      "highlights": [
+        "Joan de Borbó",
+        "Spiaggia Sant Miquel",
+        "Passeggiata sul mare",
+        "Tramonto"
+      ],
+      "tips": "Per cena economica meglio uno spuntino tipo bomba; se volete Montjuïc non fate una cena lunga qui."
+    },
+    {
+      "id": "santmiquel",
+      "name": "Platja de Sant Miquel",
+      "type": "Spiaggia",
+      "area": "Port Vell e Barceloneta",
+      "price": "Gratis",
+      "duration": "20–45 min",
+      "level": "⭐ Buona per tramonto",
+      "budget": "💚 Gratis",
+      "lat": 41.3759,
+      "lng": 2.19,
+      "why": "Punto semplice per fermarsi sul mare prima del tramonto."
+    },
+    {
+      "id": "espanya",
+      "name": "Plaça d’Espanya",
+      "type": "Piazza / nodo",
+      "area": "Montjuïc e Poble-sec",
+      "price": "Gratis",
+      "duration": "10–20 min",
+      "level": "👍 Sul percorso",
+      "budget": "💚 Gratis",
+      "lat": 41.3751,
+      "lng": 2.1499,
+      "why": "Punto di accesso alla scalinata di Montjuïc."
+    },
+    {
+      "id": "mnac",
+      "name": "Scalinata MNAC / panorama",
+      "type": "Belvedere",
+      "area": "Montjuïc e Poble-sec",
+      "price": "Gratis esterno",
+      "duration": "30–45 min",
+      "level": "⭐ Bella la sera",
+      "budget": "💚 Gratis",
+      "lat": 41.3685,
+      "lng": 2.153,
+      "why": "Panorama notturno senza bisogno di comprare un biglietto."
+    },
+    {
+      "id": "magicfountain",
+      "name": "Fontana Magica di Montjuïc",
+      "type": "Spettacolo",
+      "area": "Montjuïc e Poble-sec",
+      "price": "Gratis",
+      "duration": "~1h",
+      "level": "🟡 Solo se confermata",
+      "budget": "💚 Gratis ma condizionata",
+      "lat": 41.3712,
+      "lng": 2.1517,
+      "why": "Inseritela solo se il calendario ufficiale conferma lo spettacolo il 10 ottobre."
+    },
+    {
+      "id": "poblesec",
+      "name": "Poble-sec · Carrer de Blai",
+      "type": "Quartiere / cena",
+      "area": "Montjuïc e Poble-sec",
+      "price": "Passeggiata gratis",
+      "duration": "1–2h",
+      "level": "⭐ Ottimo per pintxos",
+      "budget": "💚/🟡 Cena smart",
+      "lat": 41.373,
+      "lng": 2.1646,
+      "why": "Perfetto dopo Montjuïc per una cena economica a più tappe."
+    },
+    {
+      "id": "razz",
+      "name": "Razzmatazz",
+      "type": "Discoteca",
+      "area": "Poblenou e Marina",
+      "price": "17–25 € indicativi · evento da verificare",
+      "duration": "serata",
+      "level": "🌙 Serata scelta",
+      "budget": "🟡 Spesa pianificata",
+      "lat": 41.3977,
+      "lng": 2.1918,
+      "why": "Controllate il programma effettivo del 9 ottobre prima di comprare."
+    }
+  ],
+  "foods": [
+    {
+      "id": "bravas",
+      "name": "Patatas bravas",
+      "price": "4–8 €",
+      "kind": "Tapas",
+      "desc": "Patate fritte con salsa brava: condivisibili e facili da trovare."
+    },
+    {
+      "id": "pantomate",
+      "name": "Pa amb tomàquet",
+      "price": "3–6 €",
+      "kind": "Catalano",
+      "desc": "Pane con pomodoro, olio e sale."
+    },
+    {
+      "id": "tortilla",
+      "name": "Tortilla española",
+      "price": "4–8 €",
+      "kind": "Tapas",
+      "desc": "Frittata di patate, ottima anche come spuntino."
+    },
+    {
+      "id": "croquetas",
+      "name": "Croquetas",
+      "price": "5–10 €",
+      "kind": "Tapas",
+      "desc": "Da provare in più posti e confrontare."
+    },
+    {
+      "id": "bombas",
+      "name": "Bomba de la Barceloneta",
+      "price": "3–5 €",
+      "kind": "Barceloneta",
+      "desc": "Una delle cose più caratteristiche da assaggiare nel quartiere."
+    },
+    {
+      "id": "fideua",
+      "name": "Fideuà marinera",
+      "price": "~12–20 €",
+      "kind": "Mare",
+      "desc": "Alternativa alla paella con pasta corta."
+    },
+    {
+      "id": "crema",
+      "name": "Crema catalana",
+      "price": "4–7 €",
+      "kind": "Dolce",
+      "desc": "Dolce tradizionale con superficie caramellata."
+    },
+    {
+      "id": "vermut",
+      "name": "Vermut",
+      "price": "3–5 €",
+      "kind": "Bevanda",
+      "desc": "Perfetto per una pausa a Gràcia o nel Gotico."
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "faborit",
+      "name": "Faborit Casa Amatller",
+      "area": "Passeig de Gràcia e Eixample",
+      "address": "Passeig de Gràcia, 41, Barcelona",
+      "lat": 41.3916,
+      "lng": 2.1652,
+      "spend": "4–12 €",
+      "level": "💸 Spuntino smart",
+      "dishes": [
+        "Caffè e dolce",
+        "Cioccolata Amatller",
+        "Panini / piatti leggeri"
+      ],
+      "note": "Comodo appena arrivati: fermata breve senza trasformarla in un pasto costoso."
+    },
+    {
+      "id": "laflauta",
+      "name": "La Flauta",
+      "area": "Passeig de Gràcia e Eixample",
+      "address": "Carrer d’Aribau, 23, Barcelona",
+      "lat": 41.3876,
+      "lng": 2.1608,
+      "spend": "20–28 €",
+      "level": "⭐ Uno dei 2 pasti più importanti",
+      "dishes": [
+        "Patatas bravas",
+        "Croquetas",
+        "Calamari",
+        "Huevos rotos",
+        "Pan con tomate"
+      ],
+      "note": "Molto frequentato; possibile attesa. Se lo fate, risparmiate su altri pasti."
+    },
+    {
+      "id": "gasterea",
+      "name": "Gasterea",
+      "area": "Park Güell e Gràcia",
+      "address": "Zona Carrer de Verdi, Barcelona",
+      "lat": 41.4034,
+      "lng": 2.1562,
+      "spend": "12–18 €",
+      "level": "💸 Cena giovane",
+      "dishes": [
+        "Pintxos",
+        "Tortilla",
+        "Croquetas",
+        "Bravas"
+      ],
+      "note": "Adatto alla prima sera: economico, informale e dentro il giro di Gràcia."
+    },
+    {
+      "id": "calboter",
+      "name": "Cal Boter",
+      "area": "Park Güell e Gràcia",
+      "address": "Carrer de Tordera, 62, Barcelona",
+      "lat": 41.4056,
+      "lng": 2.16,
+      "spend": "25–35 €",
+      "level": "⭐ Catalano tradizionale",
+      "dishes": [
+        "Botifarra con fagioli",
+        "Carne alla griglia",
+        "Escalivada",
+        "Crema catalana"
+      ],
+      "note": "Alternativa più da ristorante, da usare se saltate La Flauta o volete un pasto tradizionale."
+    },
+    {
+      "id": "refugi",
+      "name": "El Refugi de Gràcia",
+      "area": "Park Güell e Gràcia",
+      "address": "Carrer de la Legalitat, 64, Barcelona",
+      "lat": 41.4061,
+      "lng": 2.1589,
+      "spend": "10–15 €",
+      "level": "💸 Perfetto a pranzo",
+      "dishes": [
+        "Menú completo",
+        "Bravas",
+        "Tortilla",
+        "Panini"
+      ],
+      "note": "Economico e vicino al percorso Park Güell → Gràcia."
+    },
+    {
+      "id": "ovellanegra",
+      "name": "L’Ovella Negra Marina",
+      "area": "Poblenou e Marina",
+      "address": "Carrer de Zamora, 78, Barcelona",
+      "lat": 41.397,
+      "lng": 2.194,
+      "spend": "10–18 €",
+      "level": "🌙 Pre-discoteca",
+      "dishes": [
+        "Panini",
+        "Pizza",
+        "Patate da condividere",
+        "Birra"
+      ],
+      "note": "Non alta cucina, ma logisticamente perfetta prima di Razzmatazz."
+    },
+    {
+      "id": "bardelpla",
+      "name": "Bar del Pla",
+      "area": "Born e Ciutadella",
+      "address": "Carrer de Montcada, 2, Barcelona",
+      "lat": 41.3839,
+      "lng": 2.181,
+      "spend": "25–35 €",
+      "level": "⭐ Secondo pasto importante",
+      "dishes": [
+        "Croquetas",
+        "Ensaladilla rusa",
+        "Cannelloni",
+        "Guancia di manzo",
+        "Calamari"
+      ],
+      "note": "Prenotazione consigliata per 6; tenetelo come pasto più curato del sabato."
+    },
+    {
+      "id": "sacra",
+      "name": "SACRA",
+      "area": "Born e Ciutadella",
+      "address": "Plaça de la Llana, 15, Barcelona",
+      "lat": 41.385,
+      "lng": 2.1785,
+      "spend": "7–14 €",
+      "level": "💸 Alternativa davvero economica",
+      "dishes": [
+        "Focaccia",
+        "Mezza focaccia",
+        "Tiramisù"
+      ],
+      "note": "Ottima alternativa se volete risparmiare tempo e soldi nel Born."
+    },
+    {
+      "id": "laplata",
+      "name": "Bar La Plata",
+      "area": "Barrio Gótico e Rambla",
+      "address": "Carrer de la Mercè, 28, Barcelona",
+      "lat": 41.3798,
+      "lng": 2.1797,
+      "spend": "5–12 €",
+      "level": "🔥 Storico e rapido",
+      "dishes": [
+        "Butifarra con pan con tomate",
+        "Pescadito fritto",
+        "Insalata pomodoro e cipolla",
+        "Montadito con acciuga"
+      ],
+      "note": "Ideale per assaggiare qualcosa nel Gotico senza sedervi un’ora."
+    },
+    {
+      "id": "jaica",
+      "name": "Bar Jai-Ca",
+      "area": "Port Vell e Barceloneta",
+      "address": "Carrer de Ginebra, 13, Barcelona",
+      "lat": 41.38,
+      "lng": 2.1896,
+      "spend": "12–20 €",
+      "level": "🔥 Bomba + tapas",
+      "dishes": [
+        "Bomba",
+        "Croquetas",
+        "Calamari",
+        "Pesce fritto",
+        "Vermut"
+      ],
+      "note": "Ottimo dopo il tramonto: informale, vivace e adatto a un gruppo."
+    },
+    {
+      "id": "pasatapas",
+      "name": "Pasa Tapas",
+      "area": "Port Vell e Barceloneta",
+      "address": "Barceloneta, Barcelona",
+      "lat": 41.3788,
+      "lng": 2.1892,
+      "spend": "20–30 €",
+      "level": "🍚 Cena completa",
+      "dishes": [
+        "Fideuà marinera",
+        "Paella marinera",
+        "Arroz negro",
+        "Arroz con bogavante"
+      ],
+      "note": "Alternativa più completa a Jai-Ca se volete fermarvi a cena sul mare."
+    },
+    {
+      "id": "bormuth",
+      "name": "Bormuth",
+      "area": "Born e Ciutadella",
+      "address": "Plaça Comercial / El Born, Barcelona",
+      "lat": 41.3853,
+      "lng": 2.183,
+      "spend": "18–25 €",
+      "level": "🍻 Tapas di gruppo",
+      "dishes": [
+        "Tapas da condividere",
+        "Bravas",
+        "Croquetas",
+        "Birra"
+      ],
+      "note": "Buona alternativa dopo Barceloneta se volete cenare nel Born senza formalità."
+    },
+    {
+      "id": "craftbcn",
+      "name": "Craft Barcelona",
+      "area": "Barrio Gótico e Rambla",
+      "address": "Carrer del Paradís, 4, Barcelona",
+      "lat": 41.3831,
+      "lng": 2.1768,
+      "spend": "Ingresso spesso gratis · drink 4–11 €",
+      "level": "🎸 Live / jam",
+      "dishes": [
+        "Musica dal vivo",
+        "Jam session",
+        "Birra artigianale",
+        "Cocktail"
+      ],
+      "note": "Prima scelta del sabato dopo cena. Verificare la programmazione della serata."
+    },
+    {
+      "id": "jamboree",
+      "name": "Jamboree",
+      "area": "Barrio Gótico e Rambla",
+      "address": "Plaça Reial, 17, Barcelona",
+      "lat": 41.3801,
+      "lng": 2.1754,
+      "spend": "12–20 € ingresso",
+      "level": "🎶 Live + club",
+      "dishes": [
+        "Jazz",
+        "Live",
+        "DJ",
+        "Drink"
+      ],
+      "note": "Comodo perché è in Plaça Reial: perfetto come secondo locale senza spostamenti lunghi."
+    },
+    {
+      "id": "solsoler",
+      "name": "Sol Soler",
+      "area": "Park Güell e Gràcia",
+      "address": "Plaça del Sol, Barcelona",
+      "lat": 41.4025,
+      "lng": 2.1569,
+      "spend": "Drink economico/medio",
+      "level": "🍷 Sangria / piazza",
+      "dishes": [
+        "Sangria",
+        "Vermut",
+        "Birra"
+      ],
+      "note": "Tappa semplice dopo cena per vivere Plaça del Sol."
+    },
+    {
+      "id": "heliogabal",
+      "name": "Heliogàbal",
+      "area": "Park Güell e Gràcia",
+      "address": "Carrer de Ramón y Cajal, 80, Barcelona",
+      "lat": 41.4043,
+      "lng": 2.1584,
+      "spend": "10–18 €",
+      "level": "🎸 Indie / live",
+      "dishes": [
+        "Concerti indie",
+        "Rock",
+        "Cantautorato"
+      ],
+      "note": "Vale la pena solo se la programmazione dell’8 ottobre vi interessa."
+    },
+    {
+      "id": "almo2bar",
+      "name": "Almo2bar",
+      "area": "Park Güell e Gràcia",
+      "address": "Gràcia, Barcelona",
+      "lat": 41.4034,
+      "lng": 2.1597,
+      "spend": "8–15 €",
+      "level": "🕺 Giovane / DJ",
+      "dishes": [
+        "Concerti",
+        "DJ set",
+        "Indie",
+        "Rock"
+      ],
+      "note": "La scelta più movimentata a Gràcia se volete chiudere ballando un po’."
+    },
+    {
+      "id": "sodaacustic",
+      "name": "Soda Acústic",
+      "area": "Park Güell e Gràcia",
+      "address": "Gràcia, Barcelona",
+      "lat": 41.4029,
+      "lng": 2.158,
+      "spend": "Gratis–12 €",
+      "level": "🎷 Jazz / jam",
+      "dishes": [
+        "Jazz",
+        "Jam",
+        "Live"
+      ],
+      "note": "Più tranquillo, spesso economico: buona alternativa se volete musica senza club."
+    },
+    {
+      "id": "blai9",
+      "name": "Blai 9",
+      "area": "Montjuïc e Poble-sec",
+      "address": "Carrer de Blai, Barcelona",
+      "lat": 41.3731,
+      "lng": 2.1643,
+      "spend": "12–20 €",
+      "level": "💸 Pintxos serali",
+      "dishes": [
+        "Pintxos semplici",
+        "Pintxos elaborati",
+        "Birra"
+      ],
+      "note": "Dopo Montjuïc, fate 3–4 pintxos e poi eventualmente cambiate locale."
+    },
+    {
+      "id": "tasqueta",
+      "name": "La Tasqueta de Blai",
+      "area": "Montjuïc e Poble-sec",
+      "address": "Carrer de Blai, Barcelona",
+      "lat": 41.3731,
+      "lng": 2.1649,
+      "spend": "12–20 €",
+      "level": "💸 Alternativa pintxos",
+      "dishes": [
+        "Pintxos",
+        "Tapas",
+        "Birra"
+      ],
+      "note": "Da alternare a Blai 9 in una mini-cena itinerante."
+    },
+    {
+      "id": "harlem",
+      "name": "Harlem Jazz Club",
+      "area": "Barrio Gótico e Rambla",
+      "address": "Carrer de la Comtessa de Sobradiel, 8, Barcelona",
+      "lat": 41.3807,
+      "lng": 2.1777,
+      "spend": "12–20 € ingresso + drink",
+      "level": "🎷 Musica live",
+      "dishes": [
+        "Jazz",
+        "Blues",
+        "Funk",
+        "Drink"
+      ],
+      "note": "Opzione tranquilla per chiudere il sabato con musica dal vivo."
+    },
+    {
+      "id": "marula",
+      "name": "Marula Café",
+      "area": "Barrio Gótico e Rambla",
+      "address": "Carrer dels Escudellers, 49, Barcelona",
+      "lat": 41.3795,
+      "lng": 2.1765,
+      "spend": "10–18 € ingresso",
+      "level": "🕺 Più ballabile",
+      "dishes": [
+        "Funk",
+        "Soul",
+        "Disco",
+        "Cocktail"
+      ],
+      "note": "Più animato dell’Harlem se volete ballare senza fare un’altra mega-discoteca."
+    }
+  ]
+}
