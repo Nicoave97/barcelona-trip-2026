@@ -49,7 +49,7 @@ class _AdminItineraryScreenState extends State<AdminItineraryScreen> {
                 const SizedBox(height: 10),
                 StatefulBuilder(
                   builder: (context, setLocal) => DropdownButtonFormField<String?>(
-                    value: placeId,
+                    initialValue  : placeId,
                     isExpanded: true,
                     decoration: const InputDecoration(labelText: 'Collega a un luogo (opzionale)'),
                     items: [

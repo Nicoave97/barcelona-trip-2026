@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import '../state/trip_scope.dart';
-import '../widgets/common_widgets.dart';
 import 'place_detail_screen.dart';
 
 class NeighborhoodsScreen extends StatelessWidget {

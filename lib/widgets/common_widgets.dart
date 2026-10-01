@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../models/models.dart';
 import '../services/maps_service.dart';
-import '../state/trip_controller.dart';
 import '../state/trip_scope.dart';
 import '../theme/app_theme.dart';
 
